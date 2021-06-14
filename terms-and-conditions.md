@@ -7,7 +7,7 @@ Having a good teacher, rich contents or media like our app alone will not bring 
 You must attend with full attention as the user, try few times if it requires until you achieve the learning objectives. 
 Please do not get the wrong idea that we are trying to slip away from guarantying the education outcome of your learning processes 
 in our app. Only thing we want to remind you is that, the goal of Gavesha Labs is to inspire you to find your own journey in tech world. 
-But following the path to its end is your sole responsibility. We’ll keep doing our best. We believe you will do the same. 
+But following the path to its end is your sole responsibility. We'll keep doing our best. We believe you will do the same. 
 Then only we can achieve our common interests in education. 
 
 However, there are things Gavesha Labs cannot control or claim explicitly for you. Keep reading this document to learn those 
@@ -27,12 +27,12 @@ without obtaining prior written permission from us is prohibited.
 Any information, content, material, trademarks, services marks, trade names, and trade secrets including but not limited to the 
 hardware, software, text, images, graphics, video, script and audio, contained in the app listed as open source are allowed to use 
 under the specified open source licenses. Gavesha uses CERN Open Hardware, Mozilla public license and sometimes MIT public license. 
-It’s user’s responsibility to understand them properly before adopting them to any work. 
+It's user's responsibility to understand them properly before adopting them to any work. 
 
 ## End use terms of hardware and software
 Gavesha is solely an education focused platform. Yet there are numerous ways you can use it to build or innovate applications which 
 involves software, hardware or both bounded to your imagination. We strictly advice you NOT to use those applications for 
-FUNCTIONAL SAFETY or SAFETY CRTICAL environments such as in LIFE SUPPORT SYSTEMS. We won’t bare any responsibility for consequences 
+FUNCTIONAL SAFETY or SAFETY CRTICAL environments such as in LIFE SUPPORT SYSTEMS. We won't bare any responsibility for consequences 
 in such misconducted applications.
 
 ## Hardware Disclaimers
@@ -42,10 +42,10 @@ App support limited number of hardware platforms for now. Namely,
 - Magic:bit
 - M5Stack
 
-None of these hardware platforms or associated parts, modules are manufactured, distributed or sold by us. Therefore, we won’t provide 
+None of these hardware platforms or associated parts, modules are manufactured, distributed or sold by us. Therefore, we won't provide 
 any guarantee for those devices. 
 
-We may list third party merchants in the app as a reference for you to purchase hardware devices. You must acknowledge that we won’t take 
+We may list third party merchants in the app as a reference for you to purchase hardware devices. You must acknowledge that we won't take 
 any responsibility on behalf of faulty hardware, misconduct business or any other unprecedented situation caused between you and those merchants. 
 If such situations arise you MUST inform us within two weeks of the situation. After a proper assessment of the situation, we may remove those 
 merchants from our platform. Gavesha Labs will be the sole governing body to take those decisions. 

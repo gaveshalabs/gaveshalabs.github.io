@@ -5,7 +5,7 @@ Our goal is to offer the best, adventurous STEAM learning experience to you.
 For that we need to keep learning and inventing, just like how you improve your skills everyday using this app. 
 Therefore, we collect some information about you and how you learn with the app to identify areas we should improve.
 
-Since it’s about your privacy, it is our responsibility to let you know what, when and why we collect your information. 
+Since it's about your privacy, it is our responsibility to let you know what, when and why we collect your information. 
 This document unfolds those details to you. Keep in mind that we respect your privacy in the same way your right to learn. 
 So, if you believe we have inadvertently collected any information, or want to opt-out from our platform, 
 please contact us and let us know, so we can promptly remove the information.
@@ -26,8 +26,8 @@ By all means, the information we collect will be used to enhance the app and thu
 updates about, our products and services;
 - to send a confirmation notice during registration process or when you buy learning materials, products or services in this app.
 - to administer and manage accounts, including password resetting, responding to questions raised by you, 
-to contact you about any problems with the Registrant’s account or conduct on the app.
-- to send out a Gavesha Labs’ newsletter or emails about the app including information about current events, changes, 
+to contact you about any problems with the Registrant's account or conduct on the app.
+- to send out a Gavesha Labs' newsletter or emails about the app including information about current events, changes, 
 improvements, upgrades, and rules of the app.
 - for administrative, planning, product or service development, quality control and research purposes relating to our products and services.
 - for marketing purposes, but only where we have express or implied consent to contact someone or we are otherwise permitted by law to do so. 
