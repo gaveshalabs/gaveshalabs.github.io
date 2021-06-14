@@ -49,3 +49,17 @@ to reflect changes in our processes or for any other reason at any time. Materia
 to your email, but we also encourage you to check the Privacy Policy periodically to read about any changes, modifications, or revisions. 
 It is always better you check it prior submitting any personal information. 
 You will be deemed to have consented to such variation by your continued use of the app following any changes being made.
+
+## Contact Us
+
+If you have any questions or issues about our Privacy Policy, please contact us.
+
+
+
+Facebook: [Gavesha-Education-Platform-ගවේෂ](https://www.facebook.com/Gavesha-Education-Platform-ගවේෂ-100266208438550/)
+
+Twitter: [GaveshaPlatform](https://twitter.com/GaveshaPlatform)
+
+
+---
+Date of Last Revision: June 14,2021
