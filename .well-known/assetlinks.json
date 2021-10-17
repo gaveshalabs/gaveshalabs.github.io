@@ -55,6 +55,18 @@
       "namespace": "android_app",
       "package_name": "space.gaveshalabs.gavesha.debug.internal",
       "sha256_cert_fingerprints": [
+        "7B:E4:AD:EB:21:1E:EB:25:F1:D6:7B:98:28:B1:B4:D9:AF:CC:20:B0:95:61:B5:6A:15:CE:56:D2:C1:63:F0:DC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.debug.internal",
+      "sha256_cert_fingerprints": [
         "0C:E1:5F:FF:4E:FF:41:0C:CE:55:AF:7E:68:4A:FD:57:FB:A3:69:C6:EA:61:9A:19:45:4D:B6:2F:63:9F:DC:66"
       ]
     }
