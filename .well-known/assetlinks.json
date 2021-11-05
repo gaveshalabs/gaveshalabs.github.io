@@ -1,0 +1,134 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha",
+      "sha256_cert_fingerprints": [
+        "AB:0B:1A:83:F2:5A:79:1A:AF:53:D5:7C:6F:6A:A6:64:46:D1:C9:72:E5:4A:13:5E:8C:54:60:7A:C8:99:29:55"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha",
+      "sha256_cert_fingerprints": [
+        "57:C9:57:C5:3B:65:EE:9D:63:86:FA:08:0F:EB:92:FA:09:C9:25:17:83:D8:63:35:ED:C1:C0:32:6F:BC:A2:1E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha",
+      "sha256_cert_fingerprints": [
+        "0C:E1:5F:FF:4E:FF:41:0C:CE:55:AF:7E:68:4A:FD:57:FB:A3:69:C6:EA:61:9A:19:45:4D:B6:2F:63:9F:DC:66"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.debug",
+      "sha256_cert_fingerprints": [
+        "7B:E4:AD:EB:21:1E:EB:25:F1:D6:7B:98:28:B1:B4:D9:AF:CC:20:B0:95:61:B5:6A:15:CE:56:D2:C1:63:F0:DC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.debug.internal",
+      "sha256_cert_fingerprints": [
+        "7B:E4:AD:EB:21:1E:EB:25:F1:D6:7B:98:28:B1:B4:D9:AF:CC:20:B0:95:61:B5:6A:15:CE:56:D2:C1:63:F0:DC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.debug.internal",
+      "sha256_cert_fingerprints": [
+        "0C:E1:5F:FF:4E:FF:41:0C:CE:55:AF:7E:68:4A:FD:57:FB:A3:69:C6:EA:61:9A:19:45:4D:B6:2F:63:9F:DC:66"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.development.debug",
+      "sha256_cert_fingerprints": [
+        "7B:E4:AD:EB:21:1E:EB:25:F1:D6:7B:98:28:B1:B4:D9:AF:CC:20:B0:95:61:B5:6A:15:CE:56:D2:C1:63:F0:DC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.development.debug.internal",
+      "sha256_cert_fingerprints": [
+        "7B:E4:AD:EB:21:1E:EB:25:F1:D6:7B:98:28:B1:B4:D9:AF:CC:20:B0:95:61:B5:6A:15:CE:56:D2:C1:63:F0:DC"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.development.debug.internal",
+      "sha256_cert_fingerprints": [
+        "C3:CD:3D:F3:4C:56:DD:57:D5:48:9B:DE:DA:AF:0E:82:CC:88:B7:AD:BC:68:F9:67:12:7A:02:97:DC:63:9E:2B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.internal",
+      "sha256_cert_fingerprints": [
+        "87:51:9A:85:1A:DA:A6:27:7F:B5:19:DF:9B:37:9D:C4:6D:43:CF:40:F9:4F:8F:7A:E8:76:03:DF:FF:8A:6D:F1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "space.gaveshalabs.gavesha.internal",
+      "sha256_cert_fingerprints": [
+        "0C:E1:5F:FF:4E:FF:41:0C:CE:55:AF:7E:68:4A:FD:57:FB:A3:69:C6:EA:61:9A:19:45:4D:B6:2F:63:9F:DC:66"
+      ]
+    }
+  }
+]
