@@ -51,19 +51,19 @@ hardware, software and text, images, graphics, video, script and audio contained
 
 **4.2** In accessing or using the App and the Services, User shall not:
 
-	1. distribute, rent, loan, lease, sell, sublicense, or otherwise transfer or offer the Platform for any commercial purpose;
-	2. modify or remove any copyright, trademark, confidentiality or other proprietary notices, designations, or marks;
-	3. create, modify, translate, or promote derivative works of the Platform, except as permitted in these Terms;
-	4. decompile, reverse engineer, or determine any source code, algorithms, methods, or techniques of the App or the Gavesha OS;
-	5. tamper with or operate on Platform hardware without Our intervention and authorization;
-	6. interfere with, disrupt or cause damage to the operation or any security-related features of the App or the Gavesha OS, gain unauthorized access or restrict use by others;
-	7. use any software, procedure or mechanism to access the App or the Gavesha OS which can either disrupt, disable or destroy the App, the Gavesha OS or Our Content;
-	8. mimic any part of the App or the Gavesha OS or create a competitive business which is similar or identical to the App, the Gavesha OS or other Premium Services;
-	9. create or incorporate other datasets by downloading and storing any of Our Content;
-	10. copy, modify or distribute any Content of the Platform unless they are otherwise covered by an applicable Open Source license;
-	11. use the Platform or any of Our Content in a way that could or does violate any law or the rights (including but not limited to the copyright, trademark, patent, trade secret, other intellectual property, proprietary or other rights) of any person, firm, or entity or expose Us or any User to legal liability;
-	12. pose a security risk to the Platform or to any other User;
-	13. provide Us with data which is false or misleading or which gives rise to adverse consequences for third parties;
+1. distribute, rent, loan, lease, sell, sublicense, or otherwise transfer or offer the Platform for any commercial purpose;
+2. modify or remove any copyright, trademark, confidentiality or other proprietary notices, designations, or marks;
+3. create, modify, translate, or promote derivative works of the Platform, except as permitted in these Terms;
+4. decompile, reverse engineer, or determine any source code, algorithms, methods, or techniques of the App or the Gavesha OS;
+5. tamper with or operate on Platform hardware without Our intervention and authorization;
+6. interfere with, disrupt or cause damage to the operation or any security-related features of the App or the Gavesha OS, gain unauthorized access or restrict use by others;
+7. use any software, procedure or mechanism to access the App or the Gavesha OS which can either disrupt, disable or destroy the App, the Gavesha OS or Our Content;
+8. mimic any part of the App or the Gavesha OS or create a competitive business which is similar or identical to the App, the Gavesha OS or other Premium Services;
+9. create or incorporate other datasets by downloading and storing any of Our Content;
+10. copy, modify or distribute any Content of the Platform unless they are otherwise covered by an applicable Open Source license;
+11. use the Platform or any of Our Content in a way that could or does violate any law or the rights (including but not limited to the copyright, trademark, patent, trade secret, other intellectual property, proprietary or other rights) of any person, firm, or entity or expose Us or any User to legal liability;
+12. pose a security risk to the Platform or to any other User;
+13. provide Us with data which is false or misleading or which gives rise to adverse consequences for third parties;
 
 **4.3** If a User is found to behave in any way that violates the provisions of these Terms, generates technical problems or legal problems, We reserve the right, in our sole discretion, to limit, suspend or interrupt the availability of the App, Services, Premium Services and/or the Account, and take technical and legal actions, including removal of illegal content, in order to ensure that User is not using the Platform contrary to law or license agreements that User is required to comply with.
 
