@@ -19,8 +19,14 @@ We may also collect details of other interactions that you have with us, togethe
 choose to provide us with, for example, through your interactions with our customer and technical support teams. 
 We do not however collect any unnecessary personal information from you (for instance, information about religious beliefs).
 
+The app requires BLE to work with the ESP32 development board. Some Android OS versions require you to give the app location permission alongside bluetooth permission for this to work. But we do not collect/transfer/store your location information unless otherwise specified.
+
+Some widgets provided within the app, for example Weather Data Collector widget, will require your location for the widget to perform its expected operation. In such scenarios, you will be notified within the app that your location data is being collected.
+
+In the case of the Weather Data Collector widget which is in relation to the Weather Station project within the app and is used to download weather data stored in the ESP32 development board, location of the weather station is necessary to associate the collected weather data so that it would be meaningful. Since the widget requires you to be near the weather station to download data, your location at that time will be collected as the location of the Weather Station. This collection happens only when you are using the widget and not anywhere else within the app.
+
 ## What we will do with your information
-By all means, the information we collect will be used to enhance the app and thus to improve your learning experience which includes,
+By all means, the information we collect will be used to enhance the app, unless otherwise specified, and thus to improve your learning experience which includes,
 
 - to provide access to our learning materials, products and services, or to let you know about offers for, 
 updates about, our products and services;
@@ -33,6 +39,8 @@ improvements, upgrades, and rules of the app.
 - for marketing purposes, but only where we have express or implied consent to contact someone or we are otherwise permitted by law to do so. 
 <ins>Registrants may also opt out at any time by following the specific opt out instructions within the communications that we send.</ins>
 
+In the case of Weather Data Collector widget, we collect your location data as mentioned in section above and transfer it to the third party <a>data.akamutu.org/weather</a> aka Data එකමුතු organization. They are a non-profit organization focused on crowdsourcing data on various aspects of Sri Lanka for scientific and research purposes. We do not permanently store your location data with us and only transfers it along with your downloaded weather data to the specified third party.
+
 ## How we protect and share your information
 We protect your personal information against unauthorized access, unlawful use, accidental loss, corruption or destruction. 
 We use technical measures such as encryption and password protection to protect your information and the systems they are held in. 
@@ -40,8 +48,8 @@ We also use operational measures to protect the information, for example by limi
 
 We keep these security measures under review and refer to industry security standards to keep up to date with current best practices.
 
-None of your information will be shared with any 3rd party partners working with Gavesha Labs to improve your 
-learning experience unless you provide to them outside this app such as in telephone conversation.
+None of your information will be shared with any third party partners working with Gavesha Labs to improve your 
+learning experience unless you provide to them outside this app such as in telephone conversation. In any case if it is necessary for your data to be shared with a thirdy party for a specific service of the app, you will be notified appropriately within the app and you may opt out of using the service if you disagree.
 
 ## Revision of Privacy Policy
 Gavesha Labs reserves the right to change, modify, or revise this Privacy Policy in order to comply with any applicable laws, 
@@ -56,10 +64,10 @@ If you have any questions or issues about our Privacy Policy, please contact us.
 
 
 
-Facebook: [Gavesha-Education-Platform-ගවේෂ](https://www.facebook.com/Gavesha-Education-Platform-ගවේෂ-100266208438550/)
+Facebook: [Gavesha-ගවේෂ](https://www.facebook.com/gaveshaEdtech/)
 
-Twitter: [GaveshaPlatform](https://twitter.com/GaveshaPlatform)
+Twitter: [GaveshaPlatform](https://twitter.com/GaveshaEdtech)
 
 
 ---
-Date of Last Revision: June 14,2021
+Date of Last Revision: August 14,2021
