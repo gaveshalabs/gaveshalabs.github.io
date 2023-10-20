@@ -516,12 +516,13 @@ URI     : https://colorlib.com
     <!-- // end .section -->
     <footer class="my-5 text-center">
         <!-- Copyright removal is not prohibited! -->
-        <p class="mb-2"><small>COPYRIGHT © 2021-2023. ALL RIGHTS RESERVED. </small></p>
+        <p class="mb-2"><small>COPYRIGHT © <span id="thisyear"></span>. ALL RIGHTS RESERVED. </small></p>
 
         <small>
             <!-- <a href="#" class="m-2">PRESS</a> -->
             <a href="https://gaveshalabs.github.io/terms-and-conditions.html" class="m-2">TERMS</a>
             <a href="https://gaveshalabs.github.io/privacy-policy.html" class="m-2">PRIVACY</a>
+            <a href="https://gaveshalabs.github.io/club-refund-policy.html" class="m-2">REFUND POLICY</a>
         </small>
     </footer>
 
@@ -533,6 +534,10 @@ URI     : https://colorlib.com
     <!-- Custom JS -->
     <script src="js/script.js"></script>
 
+    <script>
+        var currentYear = new Date().getFullYear();
+        $('#thisyear').text(currentYear);
+    </script>
 </body>
 
 </html>
